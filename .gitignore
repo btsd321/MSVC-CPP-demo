@@ -1,0 +1,39 @@
+# 编译输出
+/build/
+/Debug/
+/Release/
+/x64/
+/*.exe
+/*.obj
+/*.pdb
+/*.lib
+/*.dll
+/*.exp
+/*.ilk
+/*.log
+
+# CMake 生成文件
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS Code 配置
+.vscode/
+
+# 临时文件
+*.tmp
+*.user
+*.suo
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# 其他
+*.bak
+*.swp
+*.sln
+*.vcxproj*
