@@ -19,7 +19,7 @@ cmake_install.cmake
 Makefile
 
 # VS Code 配置
-.vscode/
+# .vscode/
 
 # 临时文件
 *.tmp
